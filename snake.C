@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include<dos.h>
-using namespace std;
+//using namespace std;
 
 const int width = 20;
 const int height =20;
